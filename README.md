@@ -422,7 +422,7 @@ function receiveMessage(event) {
 ## Передача аналитических данных
 Вы должны подключить этот скрипт для правильного подсчета тарификации и работы AR:
 ```
-<script async src=”https://api.3dplatforma.ru/api/player/3dplatforma-ai” />
+<script async src="https://api.3dplatforma.ru/api/player/3dplatforma-ai" />
 ```
 
 
